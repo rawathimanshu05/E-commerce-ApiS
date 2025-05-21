@@ -8,7 +8,8 @@ CRUD operations for:
 ✅ Brands
 ✅ Users
 ✅ Categories
-✅ Products (if any)
+✅ Products and so on
+
 - MongoDB database integration
 - RESTful API structure
 - JSON-based request & response
